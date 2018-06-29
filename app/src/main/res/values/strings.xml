@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmailRecognizer</string>
+    <string name="empty_text_placeholder">Nothing found</string>
+</resources>
